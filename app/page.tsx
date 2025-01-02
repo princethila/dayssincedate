@@ -54,9 +54,13 @@ interface TimeElapsed {
   return (
     <div className="min-h-screen flex items-center justify-center bg-white p-4">
       <div className="w-full max-w-lg bg-white">
-        <h1 className="sm:text-4xl text-2xl font-black mb-8 tracking-tight">
-          TIME ELAPSED
-        </h1>
+        <div>
+          <h1 className="sm:text-4xl text-2xl font-black  tracking-tight">
+            TIME ELAPSED
+          </h1>
+          <p className="text-xs mb-8 font-blacktracking-tight">Figure out how much time has passed since a certain date</p>
+        </div>
+        
         
         <div className="space-y-8">
           <div className="flex flex-col gap-4">
