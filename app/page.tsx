@@ -58,7 +58,7 @@ interface TimeElapsed {
           <h1 className="sm:text-4xl text-2xl font-black  tracking-tight">
             TIME ELAPSED
           </h1>
-          <p className="text-xs mb-8 font-blacktracking-tight">Figure out how much time has passed since a certain date</p>
+          <p className="text-xs mb-8 font-blacktracking-tight">Figure out how much time has passed since some date</p>
         </div>
         
         
